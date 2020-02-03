@@ -2,7 +2,7 @@
   "name": "proxy",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "http://cdn-dls.65v.net/$1"}
+    {"src": "/(.*)","dest": "http://cdn-buf.mou.pw/$1"}
   ],
   "regions": ["sfo1","icn1"]
  }
